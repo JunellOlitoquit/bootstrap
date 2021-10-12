@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* main css */
+
+body {
+    margin: 0;
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.container{
+   max-width: 1080px !important;
+} 
+p{
+    font-size: 14px!important;
+}
+
+h1{
+    font-size: 35px !important;
+}
+
+h4{
+    color: #080808 !important;
+    font-size: 18px !important;
+}
+
+h3{
+    color: #080808 !important;
+    font-size: 18px !important;
+}
+
+h2{
+    font-size: 36px !important;
+}
+
+.btn{
+    font-size: 14px !important;
+    background: #5cc6d0 !important;
+}
+/* navigation bar */
+
+.bg{
+    background-color: black;
+}
+ul.navbar-nav {
+    font-size: 14px;
+} 
+
+/* banner */
+.bg-1{
+ background-color: #fe6f61;
+}
+
+/* footer */
+
+.bg-3{
+    background: url(img/cta-bg.jpg);
+    background-size: cover;
+}
+
+.bg-4{
+    background-color: black;
+   
+}
+.bg-4 p{
+    font-size: 12px !important;
+}
+.terms-link{
+    font-size: 12px !important;
+}
+
